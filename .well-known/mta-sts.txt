@@ -2,4 +2,4 @@ version: STSv1
 mode: testing
 mx: mxc.ptempresas.pt
 mx: mxp.ptempresas.pt
-max_age: 60480
+max_age: 604800
